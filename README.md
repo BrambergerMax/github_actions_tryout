@@ -1,6 +1,6 @@
 # Github Actions experimental
 
-This is a repo to experiment with github actions.  
+This is a repo to experiment with github actions. 
 
 ## Angular
 
